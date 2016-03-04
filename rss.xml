@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[swissimages]]></title>
+        <description><![CDATA[swissimages]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 08:14:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[swissimages | beautiful aerial, panoramic pictures]]></title>
+            <description><![CDATA[<article><h1>swissimages | beautiful aerial, panoramic pictures</h1><p>Swissimages.com was first launched in 1997 and had become during the next 2 years the first swiss photography website dedicated to the promotion of photographer’s works and events related to swiss images. Based on flash technology (… perhaps a bit early …), it received a praise from the critics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dec1be3a418b05b200eb9b65e15aa4e38cbf5261.jpg"></article>]]></description>
+            <link>undefinedswissimages-or-beautiful-aerial-panoramic-pictures/index.html</link>
+            <guid isPermaLink="false">6a587fb7-16f9-4d69-a061-496e78bd281c</guid>
+            <pubDate>Fri, 04 Mar 2016 08:14:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
