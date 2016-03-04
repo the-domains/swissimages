@@ -1,0 +1,28 @@
+name: swissimages
+favicon: null
+layout_spectrum: 0.022588825784623623
+typography_spectrum: 0.6672560835722834
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6945452934596688
+  lightness: 0.4113443864043802
+  saturation: 0.4482535265851766
+  rhythmicContrast: 0.8441898843739182
+purpose: []
